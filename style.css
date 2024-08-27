@@ -1,0 +1,44 @@
+body{
+  margin-top: 200px;
+  background-image: url(https://data.1freewallpapers.com/download/sky-clouds-night-moon-dark-night-sky.jpg);
+}
+.titulo  {
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto {
+    width: 45rem;
+    text-align: center;
+    margin-left: 30vw;
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 60px;
+
+
+}
+.imagem {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+#btn  {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+#btn > button {
+    background-color: rgb(83, 36, 36);
+    font-size: large;
+    border-color:brown
+}
+
+#btn > button > a{
+    color: rgb(250, 214, 129); 
+}
